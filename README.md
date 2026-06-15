@@ -20,10 +20,7 @@ All comparison methods were evaluated against **st-Xprop** across multiple spati
 
 ## Reproducing Benchmark Results
 
-1. Navigate to the `compared_methods` folder:
-   ```bash
-   cd compared_methods
-2. Run the script for the desired dataset:
+   Run the script for the desired dataset:
    ```bash
    python <method_name>/run_<dataset>.py
    ```
