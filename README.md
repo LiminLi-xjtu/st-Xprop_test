@@ -24,15 +24,15 @@ All comparison methods were evaluated against **st-Xprop** across multiple spati
    ```bash
    cd compared_methods
 2. Run the script for the desired dataset:
-  ```bash
-  python <method_name>/run_<dataset>.py
-  ```
+   ```bash
+   python <method_name>/run_<dataset>.py
+   ```
    - Replace `method_name` with the desired method (e.g., `DeepGFT`, `GraphST`).
    - Replace `dataset.py` with the desired dataset (e.g., `DLPFC`, `BRCA`).
-  Example:
-  ```bash
-  python DeepGFT/run_DLPFC.py
-  ```
+   Example:
+   ```bash
+   python DeepGFT/run_DLPFC.py
+   ```
 
 ## Main Repository and Data Availability
 
